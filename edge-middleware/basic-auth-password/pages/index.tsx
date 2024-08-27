@@ -7,8 +7,8 @@ export default function Index() {
         Password-protected page demo
       </Text>
       <List>
-        <li>Username: 4dmin</li>
-        <li>Password: testpwd123</li>
+        <li>Username: Adm1n</li>
+        <li>Password: H3lloth3re!</li>
       </List>
     </Page>
   )
